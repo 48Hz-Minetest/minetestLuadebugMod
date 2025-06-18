@@ -1,8 +1,8 @@
 # Luadebug - A Debugging Utility Mod for Luanti/Minetest
-Luadebug is a powerful and versatile debugging utility mod designed to help developers and server administrators inspect, interact with, and troubleshoot their Luanti/Minetest environments directly from the in-game chat. It provides essential commands for logging messages, retrieving variable values, executing arbitrary Lua code, and inspecting player and server information.
+Luadebug is a powerful and versatile debugging utility mod designed to help developers and server administrators inspect, interact with, and troubleshoot their Minetest environments directly from the in-game chat. It provides essential commands for logging messages, retrieving variable values, executing arbitrary Lua code, and inspecting player and server information.
 ## Installation
  * Download: Get the Luadebug mod files.
- * Locate Mods Folder: Place the luadebug folder (containing init.lua and mod.conf) inside your Minetest/Luanti mods/ directory.
+ * Locate Mods Folder: Place the luadebug folder (containing init.lua and mod.conf) inside your Minetest mods/ directory.
  * Enable Mod: Launch Minetest. In the main menu, go to "Configure Game", then select your world and click "Configure". Navigate to the "Mods" tab and ensure luadebug is enabled for your world.
  * Grant Privilege: Once in-game, open the chat (T key by default) and grant yourself the necessary privilege:
    /grant <your_player_name> luadebug

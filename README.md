@@ -1,4 +1,4 @@
-# Luadebug - A Debugging Utility Mod for Luanti/Minetest
+# Luadebug - A Debugging Utility Mod for Minetest
 Luadebug is a powerful and versatile debugging utility mod designed to help developers and server administrators inspect, interact with, and troubleshoot their Minetest environments directly from the in-game chat. It provides essential commands for logging messages, retrieving variable values, executing arbitrary Lua code, and inspecting player and server information.
 ## Installation
  * Download: Get the Luadebug mod files.
